@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hatice Tursun",
+    "section": "",
+    "text": "I am a student interested in statistics, data analysis, and technology.\nI enjoy learning how data can be visualized and used to make decisions."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hatice Tursun",
+    "section": "",
+    "text": "I am a student interested in statistics, data analysis, and technology.\nI enjoy learning how data can be visualized and used to make decisions."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Hatice Tursun",
+    "section": "Skills",
+    "text": "Skills\n\nStatistics & Data Analysis\n\nPython, R\n\nSQL\n\nData Visualization"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Hatice Tursun",
+    "section": "Education",
+    "text": "Education\nThe University Of Texsa At Dallas\nMajor: Your Major\nYear: 2026"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Hatice Tursun",
+    "section": "Projects",
+    "text": "Projects\n\n📊 Histogram Analysis\n\nAnalyzed distributions and identified central tendencies\n\nUsed histograms to detect skewness and multiple peaks\n\n\n\n📈 Data Visualization Project\n\nCreated charts using R and Python\n\nFocused on clarity and interpretation"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a student with an interest in statistics, data analysis, and technology.\nThrough my coursework, I am learning how data can be collected, visualized, and interpreted to answer real-world questions.\nThis website was created to showcase my class projects, assignments, and progress throughout the semester."
+  },
+  {
+    "objectID": "about.html#hi-im-hatice",
+    "href": "about.html#hi-im-hatice",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a student with an interest in statistics, data analysis, and technology.\nThrough my coursework, I am learning how data can be collected, visualized, and interpreted to answer real-world questions.\nThis website was created to showcase my class projects, assignments, and progress throughout the semester."
+  },
+  {
+    "objectID": "about.html#academic-interests",
+    "href": "about.html#academic-interests",
+    "title": "About Me",
+    "section": "Academic Interests",
+    "text": "Academic Interests\n\nStatistics and data interpretation\n\nData visualization\n\nProbability and distributions\n\nUsing data to support decision-making"
+  },
+  {
+    "objectID": "about.html#what-youll-find-on-this-site",
+    "href": "about.html#what-youll-find-on-this-site",
+    "title": "About Me",
+    "section": "What You’ll Find on This Site",
+    "text": "What You’ll Find on This Site\n\n📊 Projects – larger data analysis and visualization work\n\n📝 Assignments – weekly coursework and practice\n\n📈 Examples – histograms, summaries, and statistical reasoning\n\nEach section reflects what I am learning and how my understanding of statistics is developing over time."
+  },
+  {
+    "objectID": "about.html#tools-skills",
+    "href": "about.html#tools-skills",
+    "title": "About Me",
+    "section": "Tools & Skills",
+    "text": "Tools & Skills\n\nR and RStudio\n\nBasic Python\n\nQuarto for reproducible reports\n\nData visualization (histograms, plots, summaries)"
+  },
+  {
+    "objectID": "about.html#goals",
+    "href": "about.html#goals",
+    "title": "About Me",
+    "section": "Goals",
+    "text": "Goals\nMy goal is to continue improving my analytical skills and become more confident in explaining data clearly and accurately. I am especially interested in learning how statistics applies to real-life problems and future careers.\n\nThanks for visiting my site!"
+  }
+]
