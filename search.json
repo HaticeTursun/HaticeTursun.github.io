@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "assignment1.html",
+    "href": "assignment1.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "lab file here:\nView Lab01 View Lab02 —"
+  },
+  {
+    "objectID": "assignment1.html#section",
+    "href": "assignment1.html#section",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "lab file here:\nView Lab01 View Lab02 —"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hatice Tursun",
@@ -26,20 +40,6 @@
     "title": "Hatice Tursun",
     "section": "Projects",
     "text": "Projects\n\n📊 Histogram Analysis\n\nAnalyzed distributions and identified central tendencies\n\nUsed histograms to detect skewness and multiple peaks\n\n\n\n📈 Data Visualization Project\n\nCreated charts using R and Python\n\nFocused on clarity and interpretation"
-  },
-  {
-    "objectID": "assignment1.html",
-    "href": "assignment1.html",
-    "title": "Assignment 1",
-    "section": "",
-    "text": "download the lab file here:\nView Lab01 View Lab02 —"
-  },
-  {
-    "objectID": "assignment1.html#download-assignment-1",
-    "href": "assignment1.html#download-assignment-1",
-    "title": "Assignment 1",
-    "section": "",
-    "text": "download the lab file here:\nView Lab01 View Lab02 —"
   },
   {
     "objectID": "about.html",
